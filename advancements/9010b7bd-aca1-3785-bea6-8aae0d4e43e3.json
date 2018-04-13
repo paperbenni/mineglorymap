@@ -29,15 +29,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-04-13 22:47:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2018-04-13 21:44:23 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "entered_water": "2018-04-13 22:08:29 +0200"
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-04-13 22:26:18 +0200"
     },
     "done": true
   },
@@ -47,39 +59,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
-      "has_sandstone": "2018-04-13 21:44:23 +0200"
+      "has_vine": "2018-04-13 22:25:59 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stonebrick": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_stone": "2018-04-11 19:30:42 +0200"
+      "has_hay_block": "2018-04-13 22:56:41 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_red_sandstone": "2018-04-13 21:56:00 +0200"
+      "get_stone": "2018-04-13 22:40:21 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "minecraft:recipes/decorations/furnace": {
     "criteria": {
-      "has_string": "2018-04-13 21:56:07 +0200"
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_red_sandstone": "2018-04-13 21:56:00 +0200"
+      "has_leather": "2018-04-13 22:47:50 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_quartz_block": "2018-04-13 21:44:56 +0200"
+      "has_pumpkin": "2018-04-13 22:56:37 +0200"
     },
     "done": true
   },
@@ -90,12 +102,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2018-04-13 21:56:00 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2018-04-13 21:43:14 +0200"
@@ -105,12 +111,6 @@
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
       "has_mossy_cobblestone": "2018-04-13 22:11:15 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone": {
-    "criteria": {
-      "has_bone": "2018-04-13 21:56:21 +0200"
     },
     "done": true
   },
@@ -132,6 +132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2018-04-13 21:44:56 +0200"
@@ -144,15 +150,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_stone": "2018-04-11 19:30:42 +0200"
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2018-04-13 22:08:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
     },
     "done": true
   },
@@ -168,15 +180,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-04-13 22:47:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2018-04-13 22:08:29 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "has_mossy_cobblestone": "2018-04-13 22:11:15 +0200"
+      "has_leather": "2018-04-13 22:47:50 +0200"
     },
     "done": true
   },
@@ -186,21 +204,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
-    "criteria": {
-      "has_stonebrick": "2018-04-13 22:11:16 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2018-04-13 22:08:29 +0200"
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-04-13 22:47:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2018-04-13 22:47:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-04-13 22:46:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2018-04-13 22:08:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2018-04-13 22:56:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2018-04-13 22:56:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-04-13 21:44:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2018-04-11 19:30:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2018-04-13 21:56:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2018-04-13 21:56:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2018-04-13 21:56:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-04-13 21:44:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2018-04-13 21:56:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2018-04-13 21:56:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-04-11 19:30:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2018-04-13 22:40:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-04-13 22:11:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2018-04-13 22:11:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2018-04-13 22:11:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-04-13 22:47:50 +0200"
     },
     "done": true
   }
